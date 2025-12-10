@@ -1,0 +1,51 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+.zig-cache/
+
+# Object files
+*.o
+*.a
+*.so
+*.dll
+*.lib
+
+# Executables
+*.exe
+*.out
+zenmap_demo
+zenmap_demo-*
+
+# Test files (generated during tests/demo)
+test_*.bin
+test_*.gguf
+zenmap_test_*.bin
+zenmap_test_*.gguf
+zenmap_demo_*.bin
+zenmap_demo_*.gguf
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Documentation build output
+docs/
+
+# Coverage reports
+coverage/
+*.gcno
+*.gcda
+
+# Debug files
+*.pdb
+*.dSYM/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
